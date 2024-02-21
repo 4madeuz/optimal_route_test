@@ -1,0 +1,280 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+601,18.18027,-66.75266,Adjuntas,PR,Puerto Rico,TRUE,,17126,102.6,72001,Adjuntas,"{""72001"": 98.73, ""72141"": 1.27}",Adjuntas|Utuado,72001|72141,FALSE,FALSE,America/Puerto_Rico
+602,18.36075,-67.17541,Aguada,PR,Puerto Rico,TRUE,,37895,482.5,72003,Aguada,"{""72003"": 100}",Aguada,72003,FALSE,FALSE,America/Puerto_Rico
+603,18.45744,-67.12225,Aguadilla,PR,Puerto Rico,TRUE,,49136,552.4,72005,Aguadilla,"{""72005"": 99.76, ""72099"": 0.24}",Aguadilla|Moca,72005|72099,FALSE,FALSE,America/Puerto_Rico
+606,18.16585,-66.93716,Maricao,PR,Puerto Rico,TRUE,,5751,50.1,72093,Maricao,"{""72093"": 82.26, ""72153"": 11.68, ""72121"": 6.06}",Maricao|Yauco|Sabana Grande,72093|72153|72121,FALSE,FALSE,America/Puerto_Rico
+610,18.2911,-67.12243,Anasco,PR,Puerto Rico,TRUE,,26153,272.1,72011,Añasco,"{""72011"": 96.71, ""72099"": 2.81, ""72083"": 0.37, ""72003"": 0.11}",Añasco|Moca|Las Marías|Aguada,72011|72099|72083|72003,FALSE,FALSE,America/Puerto_Rico
+611,18.27698,-66.80688,Angeles,PR,Puerto Rico,TRUE,,1283,46.5,72141,Utuado,"{""72141"": 100}",Utuado,72141,FALSE,FALSE,America/Puerto_Rico
+612,18.41283,-66.7051,Arecibo,PR,Puerto Rico,TRUE,,64090,325,72013,Arecibo,"{""72013"": 98.86, ""72065"": 0.94, ""72017"": 0.2}",Arecibo|Hatillo|Barceloneta,72013|72065|72017,FALSE,FALSE,America/Puerto_Rico
+616,18.41878,-66.6679,Bajadero,PR,Puerto Rico,TRUE,,10186,361.3,72013,Arecibo,"{""72013"": 100}",Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+617,18.44598,-66.56006,Barceloneta,PR,Puerto Rico,TRUE,,22803,479.7,72017,Barceloneta,"{""72017"": 99.63, ""72054"": 0.37}",Barceloneta|Florida,72017|72054,FALSE,FALSE,America/Puerto_Rico
+622,17.98892,-67.1566,Boqueron,PR,Puerto Rico,TRUE,,7751,96,72023,Cabo Rojo,"{""72023"": 100}",Cabo Rojo,72023,FALSE,FALSE,America/Puerto_Rico
+623,18.08429,-67.15336,Cabo Rojo,PR,Puerto Rico,TRUE,,39652,390.6,72023,Cabo Rojo,"{""72023"": 100}",Cabo Rojo,72023,FALSE,FALSE,America/Puerto_Rico
+624,18.05905,-66.71932,Penuelas,PR,Puerto Rico,TRUE,,21912,180.2,72111,Peñuelas,"{""72111"": 94.96, ""72113"": 5.04}",Peñuelas|Ponce,72111|72113,FALSE,FALSE,America/Puerto_Rico
+627,18.41905,-66.86037,Camuy,PR,Puerto Rico,TRUE,,32885,273.8,72027,Camuy,"{""72027"": 100}",Camuy,72027,FALSE,FALSE,America/Puerto_Rico
+631,18.1852,-66.83169,Castaner,PR,Puerto Rico,TRUE,,1098,135.6,72081,Lares,"{""72081"": 50.58, ""72001"": 49.42}",Lares|Adjuntas,72081|72001,FALSE,FALSE,America/Puerto_Rico
+636,18.16354,-67.08014,Rosario,PR,Puerto Rico,TRUE,,1174,1236,72125,San Germán,"{""72125"": 100}",San Germán,72125,FALSE,FALSE,America/Puerto_Rico
+637,18.081,-66.94659,Sabana Grande,PR,Puerto Rico,TRUE,,23016,252.7,72121,Sabana Grande,"{""72121"": 94.01, ""72125"": 4.2, ""72079"": 1.79}",Sabana Grande|San Germán|Lajas,72121|72125|72079,FALSE,FALSE,America/Puerto_Rico
+638,18.28462,-66.5137,Ciales,PR,Puerto Rico,TRUE,,17689,95.7,72039,Ciales,"{""72039"": 91.88, ""72107"": 7.48, ""72091"": 0.64}",Ciales|Orocovis|Manatí,72039|72107|72091,FALSE,FALSE,America/Puerto_Rico
+641,18.26742,-66.70212,Utuado,PR,Puerto Rico,TRUE,,24915,114.4,72141,Utuado,"{""72141"": 100}",Utuado,72141,FALSE,FALSE,America/Puerto_Rico
+646,18.43251,-66.28429,Dorado,PR,Puerto Rico,TRUE,,36142,662.9,72051,Dorado,"{""72051"": 97.19, ""72143"": 2.81}",Dorado|Vega Alta,72051|72143,FALSE,FALSE,America/Puerto_Rico
+647,17.96667,-66.94266,Ensenada,PR,Puerto Rico,TRUE,,5198,126.9,72055,Guánica,"{""72055"": 98.36, ""72079"": 1.64}",Guánica|Lajas,72055|72079,FALSE,FALSE,America/Puerto_Rico
+650,18.34487,-66.58347,Florida,PR,Puerto Rico,TRUE,,14301,174.1,72054,Florida,"{""72054"": 47.43, ""72141"": 41.94, ""72091"": 4.26, ""72039"": 2.9, ""72013"": 2.41, ""72017"": 1.07}",Florida|Utuado|Manatí|Ciales|Arecibo|Barceloneta,72054|72141|72091|72039|72013|72017,FALSE,FALSE,America/Puerto_Rico
+652,18.45614,-66.60194,Garrochales,PR,Puerto Rico,TRUE,,3193,191.4,72013,Arecibo,"{""72013"": 100}",Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+653,17.99413,-66.90266,Guanica,PR,Puerto Rico,TRUE,,9099,159.1,72055,Guánica,"{""72055"": 97.54, ""72121"": 2.46}",Guánica|Sabana Grande,72055|72121,FALSE,FALSE,America/Puerto_Rico
+656,18.04186,-66.79123,Guayanilla,PR,Puerto Rico,TRUE,,18633,170.7,72059,Guayanilla,"{""72059"": 96.96, ""72153"": 2.88, ""72111"": 0.16}",Guayanilla|Yauco|Peñuelas,72059|72153|72111,FALSE,FALSE,America/Puerto_Rico
+659,18.41036,-66.79691,Hatillo,PR,Puerto Rico,TRUE,,37525,352.9,72065,Hatillo,"{""72065"": 100}",Hatillo,72065,FALSE,FALSE,America/Puerto_Rico
+660,18.13412,-67.11399,Hormigueros,PR,Puerto Rico,TRUE,,15630,533.2,72067,Hormigueros,"{""72067"": 100}",Hormigueros,72067,FALSE,FALSE,America/Puerto_Rico
+662,18.46622,-67.01508,Isabela,PR,Puerto Rico,TRUE,,40503,378.9,72071,Isabela,"{""72071"": 100}",Isabela,72071,FALSE,FALSE,America/Puerto_Rico
+664,18.21064,-66.59066,Jayuya,PR,Puerto Rico,TRUE,,15132,124.5,72073,Jayuya,"{""72073"": 94.97, ""72141"": 5.03}",Jayuya|Utuado,72073|72141,FALSE,FALSE,America/Puerto_Rico
+667,18.01246,-67.0417,Lajas,PR,Puerto Rico,TRUE,,23665,151.8,72079,Lajas,"{""72079"": 98.09, ""72125"": 1.91}",Lajas|San Germán,72079|72125,FALSE,FALSE,America/Puerto_Rico
+669,18.27019,-66.86727,Lares,PR,Puerto Rico,TRUE,,27763,167.2,72081,Lares,"{""72081"": 93.38, ""72141"": 3.8, ""72083"": 2.7, ""72131"": 0.12}",Lares|Utuado|Las Marías|San Sebastián,72081|72141|72083|72131,FALSE,FALSE,America/Puerto_Rico
+670,18.23782,-66.98852,Las Marias,PR,Puerto Rico,TRUE,,8744,72.6,72083,Las Marías,"{""72083"": 95.63, ""72011"": 3.6, ""72097"": 0.45, ""72093"": 0.32}",Las Marías|Añasco|Mayagüez|Maricao,72083|72011|72097|72093,FALSE,FALSE,America/Puerto_Rico
+674,18.42229,-66.4891,Manati,PR,Puerto Rico,TRUE,,39569,351.6,72091,Manatí,"{""72091"": 99.45, ""72145"": 0.55}",Manatí|Vega Baja,72091|72145,FALSE,FALSE,America/Puerto_Rico
+676,18.37897,-67.08098,Moca,PR,Puerto Rico,TRUE,,36849,291.2,72099,Moca,"{""72099"": 99.19, ""72003"": 0.81}",Moca|Aguada,72099|72003,FALSE,FALSE,America/Puerto_Rico
+677,18.33535,-67.23155,Rincon,PR,Puerto Rico,TRUE,,15225,403.5,72117,Rincón,"{""72117"": 98.0, ""72011"": 1.19, ""72003"": 0.81}",Rincón|Añasco|Aguada,72117|72011|72003,FALSE,FALSE,America/Puerto_Rico
+678,18.42949,-66.93016,Quebradillas,PR,Puerto Rico,TRUE,,25763,341.4,72115,Quebradillas,"{""72115"": 77.11, ""72071"": 17.13, ""72131"": 5.76}",Quebradillas|Isabela|San Sebastián,72115|72071|72131,FALSE,FALSE,America/Puerto_Rico
+680,18.16307,-67.36122,Mayaguez,PR,Puerto Rico,TRUE,,43070,258.6,72097,Mayagüez,"{""72097"": 94.13, ""72125"": 3.44, ""72011"": 2.43}",Mayagüez|San Germán|Añasco,72097|72125|72011,FALSE,FALSE,America/Puerto_Rico
+682,18.22415,-67.15309,Mayaguez,PR,Puerto Rico,TRUE,,31816,753.2,72097,Mayagüez,"{""72097"": 99.83, ""72067"": 0.17}",Mayagüez|Hormigueros,72097|72067,FALSE,FALSE,America/Puerto_Rico
+683,18.10926,-67.03803,San German,PR,Puerto Rico,TRUE,,29664,232.4,72125,San Germán,"{""72125"": 100}",San Germán,72125,FALSE,FALSE,America/Puerto_Rico
+685,18.33656,-66.97518,San Sebastian,PR,Puerto Rico,TRUE,,40169,197.1,72131,San Sebastián,"{""72131"": 87.74, ""72071"": 11.31, ""72099"": 0.95}",San Sebastián|Isabela|Moca,72131|72071|72099,FALSE,FALSE,America/Puerto_Rico
+687,18.31707,-66.42029,Morovis,PR,Puerto Rico,TRUE,,29069,288.7,72101,Morovis,"{""72101"": 100}",Morovis,72101,FALSE,FALSE,America/Puerto_Rico
+688,18.3807,-66.62496,Sabana Hoyos,PR,Puerto Rico,TRUE,,11552,137.2,72013,Arecibo,"{""72013"": 100}",Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+690,18.49363,-67.09734,San Antonio,PR,Puerto Rico,TRUE,,6217,1061.6,72005,Aguadilla,"{""72005"": 100}",Aguadilla,72005,FALSE,FALSE,America/Puerto_Rico
+692,18.40905,-66.33768,Vega Alta,PR,Puerto Rico,TRUE,,33646,489.7,72143,Vega Alta,"{""72143"": 99.87, ""72145"": 0.13}",Vega Alta|Vega Baja,72143|72145,FALSE,FALSE,America/Puerto_Rico
+693,18.42633,-66.39811,Vega Baja,PR,Puerto Rico,TRUE,,56146,488.1,72145,Vega Baja,"{""72145"": 98.28, ""72143"": 1.43, ""72091"": 0.29}",Vega Baja|Vega Alta|Manatí,72145|72143|72091,FALSE,FALSE,America/Puerto_Rico
+694,18.48327,-66.39269,Vega Baja,PR,Puerto Rico,TRUE,,86,41.6,72145,Vega Baja,"{""72145"": 100}",Vega Baja,72145,FALSE,FALSE,America/Puerto_Rico
+698,18.07274,-66.85519,Yauco,PR,Puerto Rico,TRUE,,34016,209.6,72153,Yauco,"{""72153"": 97.82, ""72059"": 2.18}",Yauco|Guayanilla,72153|72059,FALSE,FALSE,America/Puerto_Rico
+703,18.24739,-66.13143,Aguas Buenas,PR,Puerto Rico,TRUE,,25001,311.2,72007,Aguas Buenas,"{""72007"": 93.07, ""72041"": 3.61, ""72045"": 3.32}",Aguas Buenas|Cidra|Comerío,72007|72041|72045,FALSE,FALSE,America/Puerto_Rico
+704,17.97442,-66.22888,Aguirre,PR,Puerto Rico,TRUE,,7179,308.1,72123,Salinas,"{""72123"": 97.64, ""72057"": 2.36}",Salinas|Guayama,72123|72057,FALSE,FALSE,America/Puerto_Rico
+705,18.1294,-66.26653,Aibonito,PR,Puerto Rico,TRUE,,24414,310,72009,Aibonito,"{""72009"": 97.19, ""72043"": 2.81}",Aibonito|Coamo,72009|72043,FALSE,FALSE,America/Puerto_Rico
+707,18.01752,-65.92127,Maunabo,PR,Puerto Rico,TRUE,,10615,195.9,72095,Maunabo,"{""72095"": 100}",Maunabo,72095,FALSE,FALSE,America/Puerto_Rico
+714,17.9981,-66.05635,Arroyo,PR,Puerto Rico,TRUE,,16183,416.5,72015,Arroyo,"{""72015"": 100}",Arroyo,72015,FALSE,FALSE,America/Puerto_Rico
+715,17.99738,-66.56104,Mercedita,PR,Puerto Rico,TRUE,,2012,61.1,72113,Ponce,"{""72113"": 99.08, ""72075"": 0.92}",Ponce|Juana Díaz,72113|72075,FALSE,FALSE,America/Puerto_Rico
+716,17.99942,-66.59868,Ponce,PR,Puerto Rico,TRUE,,27746,1235.9,72113,Ponce,"{""72113"": 100}",Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+717,18.00272,-66.61146,Ponce,PR,Puerto Rico,TRUE,,14568,2370.5,72113,Ponce,"{""72113"": 100}",Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+718,18.23145,-65.76067,Naguabo,PR,Puerto Rico,TRUE,,23412,191.5,72103,Naguabo,"{""72103"": 99.86, ""72037"": 0.14}",Naguabo|Ceiba,72103|72037,FALSE,FALSE,America/Puerto_Rico
+719,18.28879,-66.25316,Naranjito,PR,Puerto Rico,TRUE,,29555,404.5,72105,Naranjito,"{""72105"": 96.91, ""72047"": 2.22, ""72045"": 0.47, ""72135"": 0.4}",Naranjito|Corozal|Comerío|Toa Alta,72105|72047|72045|72135,FALSE,FALSE,America/Puerto_Rico
+720,18.21559,-66.42421,Orocovis,PR,Puerto Rico,TRUE,,20717,142.5,72107,Orocovis,"{""72107"": 99.27, ""72043"": 0.73}",Orocovis|Coamo,72107|72043,FALSE,FALSE,America/Puerto_Rico
+723,18.03139,-66.01122,Patillas,PR,Puerto Rico,TRUE,,16265,136.5,72109,Patillas,"{""72109"": 99.5, ""72095"": 0.5}",Patillas|Maunabo,72109|72095,FALSE,FALSE,America/Puerto_Rico
+725,18.22052,-66.03962,Caguas,PR,Puerto Rico,TRUE,,79153,738.8,72025,Caguas,"{""72025"": 86.56, ""72061"": 4.45, ""72129"": 2.77, ""72127"": 2.23, ""72139"": 2.08, ""72007"": 1.9}",Caguas|Guaynabo|San Lorenzo|San Juan|Trujillo Alto|Aguas Buenas,72025|72061|72129|72127|72139|72007,FALSE,FALSE,America/Puerto_Rico
+727,18.21142,-66.07374,Caguas,PR,Puerto Rico,TRUE,,52829,904,72025,Caguas,"{""72025"": 100}",Caguas,72025,FALSE,FALSE,America/Puerto_Rico
+728,18.00697,-66.65995,Ponce,PR,Puerto Rico,TRUE,,39669,994.7,72113,Ponce,"{""72113"": 100}",Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+729,18.33524,-65.88677,Canovanas,PR,Puerto Rico,TRUE,,48227,520.8,72029,Canóvanas,"{""72029"": 91.45, ""72087"": 8.55}",Canóvanas|Loíza,72029|72087,FALSE,FALSE,America/Puerto_Rico
+730,18.03256,-66.61384,Ponce,PR,Puerto Rico,TRUE,,33251,1934.2,72113,Ponce,"{""72113"": 100}",Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+731,18.09914,-66.63279,Ponce,PR,Puerto Rico,TRUE,,11131,87.8,72113,Ponce,"{""72113"": 97.12, ""72001"": 2.88}",Ponce|Adjuntas,72113|72001,FALSE,FALSE,America/Puerto_Rico
+735,18.2525,-65.67534,Ceiba,PR,Puerto Rico,TRUE,,11621,163.9,72037,Ceiba,"{""72037"": 94.61, ""72103"": 5.39}",Ceiba|Naguabo,72037|72103,FALSE,FALSE,America/Puerto_Rico
+736,18.10736,-66.14994,Cayey,PR,Puerto Rico,TRUE,,46167,324.7,72035,Cayey,"{""72035"": 92.46, ""72041"": 7.54}",Cayey|Cidra,72035|72041,FALSE,FALSE,America/Puerto_Rico
+738,18.31793,-65.66793,Fajardo,PR,Puerto Rico,TRUE,,30468,397.2,72053,Fajardo,"{""72053"": 99.59, ""72037"": 0.41}",Fajardo|Ceiba,72053|72037,FALSE,FALSE,America/Puerto_Rico
+739,18.17543,-66.16198,Cidra,PR,Puerto Rico,TRUE,,35105,440.4,72041,Cidra,"{""72041"": 100}",Cidra,72041,FALSE,FALSE,America/Puerto_Rico
+740,18.33251,-65.63419,Puerto Real,PR,Puerto Rico,TRUE,,2020,1868,72053,Fajardo,"{""72053"": 100}",Fajardo,72053,FALSE,FALSE,America/Puerto_Rico
+741,18.16569,-65.75506,Punta Santiago,PR,Puerto Rico,TRUE,,3899,661.3,72069,Humacao,"{""72069"": 100}",Humacao,72069,FALSE,FALSE,America/Puerto_Rico
+745,18.3466,-65.81382,Rio Grande,PR,Puerto Rico,TRUE,,48282,306.9,72119,Río Grande,"{""72119"": 99.78, ""72029"": 0.22}",Río Grande|Canóvanas,72119|72029,FALSE,FALSE,America/Puerto_Rico
+751,18.01205,-66.25871,Salinas,PR,Puerto Rico,TRUE,,19768,125.7,72123,Salinas,"{""72123"": 99.83, ""72035"": 0.17}",Salinas|Cayey,72123|72035,FALSE,FALSE,America/Puerto_Rico
+754,18.1447,-65.97565,San Lorenzo,PR,Puerto Rico,TRUE,,37012,285.8,72129,San Lorenzo,"{""72129"": 100}",San Lorenzo,72129,FALSE,FALSE,America/Puerto_Rico
+757,17.9933,-66.39056,Santa Isabel,PR,Puerto Rico,TRUE,,20366,242.4,72133,Santa Isabel,"{""72133"": 100}",Santa Isabel,72133,FALSE,FALSE,America/Puerto_Rico
+765,18.12365,-65.43013,Vieques,PR,Puerto Rico,TRUE,,8317,68,72147,Vieques,"{""72147"": 100}",Vieques,72147,FALSE,FALSE,America/Puerto_Rico
+766,18.13039,-66.4757,Villalba,PR,Puerto Rico,TRUE,,22416,226.7,72149,Villalba,"{""72149"": 93.48, ""72107"": 6.52}",Villalba|Orocovis,72149|72107,FALSE,FALSE,America/Puerto_Rico
+767,18.07033,-65.89618,Yabucoa,PR,Puerto Rico,TRUE,,31450,220.1,72151,Yabucoa,"{""72151"": 99.33, ""72069"": 0.67}",Yabucoa|Humacao,72151|72069,FALSE,FALSE,America/Puerto_Rico
+769,18.09459,-66.3607,Coamo,PR,Puerto Rico,TRUE,,35126,176,72043,Coamo,"{""72043"": 98.05, ""72133"": 1.95}",Coamo|Santa Isabel,72043|72133,FALSE,FALSE,America/Puerto_Rico
+771,18.18797,-65.86916,Las Piedras,PR,Puerto Rico,TRUE,,34882,400.8,72085,Las Piedras,"{""72085"": 99.0, ""72069"": 1.0}",Las Piedras|Humacao,72085|72069,FALSE,FALSE,America/Puerto_Rico
+772,18.43048,-65.90377,Loiza,PR,Puerto Rico,TRUE,,18148,428.7,72087,Loíza,"{""72087"": 100}",Loíza,72087,FALSE,FALSE,America/Puerto_Rico
+773,18.34073,-65.72756,Luquillo,PR,Puerto Rico,TRUE,,17917,287,72089,Luquillo,"{""72089"": 100}",Luquillo,72089,FALSE,FALSE,America/Puerto_Rico
+775,18.31387,-65.28618,Culebra,PR,Puerto Rico,TRUE,,1293,42.9,72049,Culebra,"{""72049"": 100}",Culebra,72049,FALSE,FALSE,America/Puerto_Rico
+777,18.22365,-65.90904,Juncos,PR,Puerto Rico,TRUE,,38267,550.2,72077,Juncos,"{""72077"": 98.49, ""72129"": 0.82, ""72085"": 0.43, ""72029"": 0.14, ""72063"": 0.12}",Juncos|San Lorenzo|Las Piedras|Canóvanas|Gurabo,72077|72129|72085|72029|72063,FALSE,FALSE,America/Puerto_Rico
+778,18.26319,-65.97938,Gurabo,PR,Puerto Rico,TRUE,,41026,536.5,72063,Gurabo,"{""72063"": 94.08, ""72129"": 5.92}",Gurabo|San Lorenzo,72063|72129,FALSE,FALSE,America/Puerto_Rico
+780,18.09998,-66.57032,Coto Laurel,PR,Puerto Rico,TRUE,,12975,261.8,72113,Ponce,"{""72113"": 98.13, ""72075"": 1.87}",Ponce|Juana Díaz,72113|72075,FALSE,FALSE,America/Puerto_Rico
+782,18.22501,-66.22452,Comerio,PR,Puerto Rico,TRUE,,18664,257.6,72045,Comerío,"{""72045"": 97.39, ""72019"": 2.61}",Comerío|Barranquitas,72045|72019,FALSE,FALSE,America/Puerto_Rico
+783,18.30348,-66.32851,Corozal,PR,Puerto Rico,TRUE,,34329,314.7,72047,Corozal,"{""72047"": 99.06, ""72019"": 0.94}",Corozal|Barranquitas,72047|72019,FALSE,FALSE,America/Puerto_Rico
+784,18.00558,-66.13651,Guayama,PR,Puerto Rico,TRUE,,36965,213.8,72057,Guayama,"{""72057"": 97.29, ""72035"": 1.53, ""72109"": 1.18}",Guayama|Cayey|Patillas,72057|72035|72109,FALSE,FALSE,America/Puerto_Rico
+786,18.1357,-66.22881,La Plata,PR,Puerto Rico,TRUE,,151,33.1,72009,Aibonito,"{""72009"": 100}",Aibonito,72009,FALSE,FALSE,America/Puerto_Rico
+791,18.14391,-65.81398,Humacao,PR,Puerto Rico,TRUE,,47335,428.7,72069,Humacao,"{""72069"": 97.88, ""72085"": 1.16, ""72151"": 0.96}",Humacao|Las Piedras|Yabucoa,72069|72085|72151,FALSE,FALSE,America/Puerto_Rico
+794,18.19934,-66.31179,Barranquitas,PR,Puerto Rico,TRUE,,28432,319.9,72019,Barranquitas,"{""72019"": 96.51, ""72043"": 3.49}",Barranquitas|Coamo,72019|72043,FALSE,FALSE,America/Puerto_Rico
+795,18.05128,-66.49485,Juana Diaz,PR,Puerto Rico,TRUE,,44055,284.7,72075,Juana Díaz,"{""72075"": 100}",Juana Díaz,72075,FALSE,FALSE,America/Puerto_Rico
+802,18.34349,-64.9287,St Thomas,VI,Virgin Islands,TRUE,,,,78030,St. Thomas,"{""78030"": 100}",St. Thomas,78030,FALSE,FALSE,America/St_Thomas
+820,17.7388,-64.70695,Christiansted,VI,Virgin Islands,TRUE,,,,78010,St. Croix,"{""78010"": 100}",St. Croix,78010,FALSE,FALSE,America/St_Thomas
+830,18.33857,-64.73802,St John,VI,Virgin Islands,TRUE,,,,78020,St. John,"{""78020"": 100}",St. John,78020,FALSE,FALSE,America/St_Thomas
+840,17.72649,-64.84717,Frederiksted,VI,Virgin Islands,TRUE,,,,78010,St. Croix,"{""78010"": 100}",St. Croix,78010,FALSE,FALSE,America/St_Thomas
+850,17.72763,-64.79122,Kingshill,VI,Virgin Islands,TRUE,,,,78010,St. Croix,"{""78010"": 100}",St. Croix,78010,FALSE,FALSE,America/St_Thomas
+851,17.74757,-64.78737,Kingshill,VI,Virgin Islands,TRUE,,,,78010,St. Croix,"{""78010"": 100}",St. Croix,78010,FALSE,FALSE,America/St_Thomas
+901,18.46478,-66.10277,San Juan,PR,Puerto Rico,TRUE,,8098,3081.3,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+906,18.46446,-66.09499,San Juan,PR,Puerto Rico,TRUE,,171,20734.8,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+907,18.45287,-66.08381,San Juan,PR,Puerto Rico,TRUE,,16620,3140.8,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+909,18.44131,-66.06866,San Juan,PR,Puerto Rico,TRUE,,5007,2961.1,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+911,18.45133,-66.05636,San Juan,PR,Puerto Rico,TRUE,,7347,5961,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+912,18.44503,-66.05995,San Juan,PR,Puerto Rico,TRUE,,6233,6489.4,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+913,18.45024,-66.04275,San Juan,PR,Puerto Rico,TRUE,,7460,8890.6,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+915,18.43673,-66.04576,San Juan,PR,Puerto Rico,TRUE,,25585,7047.2,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+917,18.4208,-66.04989,San Juan,PR,Puerto Rico,TRUE,,18504,5233,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+918,18.42139,-66.06774,San Juan,PR,Puerto Rico,TRUE,,15393,2203,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+920,18.41904,-66.09023,San Juan,PR,Puerto Rico,TRUE,,17249,1845,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+921,18.39206,-66.0871,San Juan,PR,Puerto Rico,TRUE,,32958,4146.6,72127,San Juan,"{""72127"": 99.88, ""72061"": 0.12}",San Juan|Guaynabo,72127|72061,FALSE,FALSE,America/Puerto_Rico
+923,18.41146,-66.03715,San Juan,PR,Puerto Rico,TRUE,,25915,4978,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+924,18.39987,-66.01344,San Juan,PR,Puerto Rico,TRUE,,48016,3975.6,72127,San Juan,"{""72127"": 96.56, ""72031"": 3.44}",San Juan|Carolina,72127|72031,FALSE,FALSE,America/Puerto_Rico
+925,18.40028,-66.05058,San Juan,PR,Puerto Rico,TRUE,,6128,5308.4,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+926,18.34691,-66.05434,San Juan,PR,Puerto Rico,TRUE,,94560,1572.8,72127,San Juan,"{""72127"": 83.48, ""72139"": 15.69, ""72061"": 0.83}",San Juan|Trujillo Alto|Guaynabo,72127|72139|72061,FALSE,FALSE,America/Puerto_Rico
+927,18.38884,-66.07149,San Juan,PR,Puerto Rico,TRUE,,13662,2177.1,72127,San Juan,"{""72127"": 100}",San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+934,18.41372,-66.11998,Fort Buchanan,PR,Puerto Rico,TRUE,,124,33.8,72061,Guaynabo,"{""72061"": 69.16, ""72021"": 30.84}",Guaynabo|Bayamón,72061|72021,FALSE,FALSE,America/Puerto_Rico
+949,18.43166,-66.21349,Toa Baja,PR,Puerto Rico,TRUE,,69785,1309.2,72137,Toa Baja,"{""72137"": 96.11, ""72033"": 2.93, ""72135"": 0.96}",Toa Baja|Cataño|Toa Alta,72137|72033|72135,FALSE,FALSE,America/Puerto_Rico
+950,18.46201,-66.23917,Toa Baja,PR,Puerto Rico,TRUE,,0,0,72051,Dorado,"{""72051"": 99.69, ""72137"": 0.31}",Dorado|Toa Baja,72051|72137,FALSE,FALSE,America/Puerto_Rico
+951,18.43175,-66.25628,Toa Baja,PR,Puerto Rico,TRUE,,376,135.5,72137,Toa Baja,"{""72137"": 100}",Toa Baja,72137,FALSE,FALSE,America/Puerto_Rico
+952,18.42874,-66.18897,Sabana Seca,PR,Puerto Rico,TRUE,,7727,1345.6,72137,Toa Baja,"{""72137"": 100}",Toa Baja,72137,FALSE,FALSE,America/Puerto_Rico
+953,18.36319,-66.24764,Toa Alta,PR,Puerto Rico,TRUE,,67606,978.1,72135,Toa Alta,"{""72135"": 98.44, ""72047"": 0.79, ""72137"": 0.77}",Toa Alta|Corozal|Toa Baja,72135|72047|72137,FALSE,FALSE,America/Puerto_Rico
+956,18.32121,-66.17185,Bayamon,PR,Puerto Rico,TRUE,,64939,914.4,72021,Bayamón,"{""72021"": 97.91, ""72007"": 1.4, ""72135"": 0.69}",Bayamón|Aguas Buenas|Toa Alta,72021|72007|72135,FALSE,FALSE,America/Puerto_Rico
+957,18.36696,-66.18857,Bayamon,PR,Puerto Rico,TRUE,,41162,3661.1,72021,Bayamón,"{""72021"": 93.15, ""72135"": 6.85}",Bayamón|Toa Alta,72021|72135,FALSE,FALSE,America/Puerto_Rico
+959,18.3852,-66.15583,Bayamon,PR,Puerto Rico,TRUE,,47783,3027.9,72021,Bayamón,"{""72021"": 98.67, ""72061"": 0.9, ""72137"": 0.27, ""72135"": 0.16}",Bayamón|Guaynabo|Toa Baja|Toa Alta,72021|72061|72137|72135,FALSE,FALSE,America/Puerto_Rico
+960,18.41674,-66.14365,Bayamon,PR,Puerto Rico,TRUE,,3380,930.5,72021,Bayamón,"{""72021"": 100}",Bayamón,72021,FALSE,FALSE,America/Puerto_Rico
+961,18.40987,-66.16415,Bayamon,PR,Puerto Rico,TRUE,,30842,2232.9,72021,Bayamón,"{""72021"": 99.0, ""72033"": 1.0}",Bayamón|Cataño,72021|72033,FALSE,FALSE,America/Puerto_Rico
+962,18.43514,-66.13949,Catano,PR,Puerto Rico,TRUE,,20066,1608.7,72033,Cataño,"{""72033"": 85.91, ""72061"": 13.72, ""72021"": 0.26, ""72137"": 0.11}",Cataño|Guaynabo|Bayamón|Toa Baja,72033|72061|72021|72137,FALSE,FALSE,America/Puerto_Rico
+965,18.42853,-66.11175,Guaynabo,PR,Puerto Rico,TRUE,,5392,2299.9,72061,Guaynabo,"{""72061"": 100}",Guaynabo,72061,FALSE,FALSE,America/Puerto_Rico
+966,18.39784,-66.11394,Guaynabo,PR,Puerto Rico,TRUE,,15737,2411.1,72061,Guaynabo,"{""72061"": 85.34, ""72127"": 8.07, ""72021"": 6.59}",Guaynabo|San Juan|Bayamón,72061|72127|72021,FALSE,FALSE,America/Puerto_Rico
+968,18.40609,-66.10123,Guaynabo,PR,Puerto Rico,TRUE,,3683,3119.1,72061,Guaynabo,"{""72061"": 99.73, ""72127"": 0.27}",Guaynabo|San Juan,72061|72127,FALSE,FALSE,America/Puerto_Rico
+969,18.36696,-66.11,Guaynabo,PR,Puerto Rico,TRUE,,42144,3229.8,72061,Guaynabo,"{""72061"": 85.08, ""72127"": 11.09, ""72021"": 3.83}",Guaynabo|San Juan|Bayamón,72061|72127|72021,FALSE,FALSE,America/Puerto_Rico
+971,18.32067,-66.11751,Guaynabo,PR,Puerto Rico,TRUE,,27048,651.6,72061,Guaynabo,"{""72061"": 100}",Guaynabo,72061,FALSE,FALSE,America/Puerto_Rico
+976,18.33903,-65.99286,Trujillo Alto,PR,Puerto Rico,TRUE,,61869,1370.1,72139,Trujillo Alto,"{""72139"": 94.61, ""72031"": 2.56, ""72127"": 2.13, ""72063"": 0.7}",Trujillo Alto|Carolina|San Juan|Gurabo,72139|72031|72127|72063,FALSE,FALSE,America/Puerto_Rico
+979,18.43734,-66.0089,Carolina,PR,Puerto Rico,TRUE,,17313,1719,72031,Carolina,"{""72031"": 100}",Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+982,18.40961,-65.99143,Carolina,PR,Puerto Rico,TRUE,,14151,3787.2,72031,Carolina,"{""72031"": 100}",Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+983,18.41788,-65.98104,Carolina,PR,Puerto Rico,TRUE,,32747,2925.9,72031,Carolina,"{""72031"": 100}",Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+985,18.40628,-65.94767,Carolina,PR,Puerto Rico,TRUE,,32261,1348.8,72031,Carolina,"{""72031"": 100}",Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+987,18.34115,-65.94257,Carolina,PR,Puerto Rico,TRUE,,54950,818.2,72031,Carolina,"{""72031"": 99.83, ""72139"": 0.17}",Carolina|Trujillo Alto,72031|72139,FALSE,FALSE,America/Puerto_Rico
+1001,42.06262,-72.62521,Agawam,MA,Massachusetts,TRUE,,16088,550.1,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1002,42.37633,-72.46462,Amherst,MA,Massachusetts,TRUE,,27323,198.1,25015,Hampshire,"{""25015"": 93.26, ""25011"": 6.74}",Hampshire|Franklin,25015|25011,FALSE,FALSE,America/New_York
+1003,42.39135,-72.52327,Amherst,MA,Massachusetts,TRUE,,13711,6583.4,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1005,42.42117,-72.10655,Barre,MA,Massachusetts,TRUE,,4947,44.2,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1007,42.28163,-72.40009,Belchertown,MA,Massachusetts,TRUE,,15304,107.7,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1008,42.18234,-72.95819,Blandford,MA,Massachusetts,TRUE,,1171,7.4,25013,Hampden,"{""25013"": 94.36, ""25003"": 5.64}",Hampden|Berkshire,25013|25003,FALSE,FALSE,America/New_York
+1009,42.21133,-72.34189,Bondsville,MA,Massachusetts,TRUE,,800,442.8,25013,Hampden,"{""25013"": 99.06, ""25015"": 0.94}",Hampden|Hampshire,25013|25015,FALSE,FALSE,America/New_York
+1010,42.12904,-72.20597,Brimfield,MA,Massachusetts,TRUE,,3703,40.6,25013,Hampden,"{""25013"": 98.73, ""25027"": 1.27}",Hampden|Worcester,25013|25027,FALSE,FALSE,America/New_York
+1011,42.30233,-72.96448,Chester,MA,Massachusetts,TRUE,,1332,15.7,25013,Hampden,"{""25013"": 77.54, ""25015"": 22.46}",Hampden|Hampshire,25013|25015,FALSE,FALSE,America/New_York
+1012,42.38495,-72.84675,Chesterfield,MA,Massachusetts,TRUE,,503,16.1,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1013,42.16059,-72.60788,Chicopee,MA,Massachusetts,TRUE,,22709,1549.1,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1020,42.17618,-72.56538,Chicopee,MA,Massachusetts,TRUE,,30704,951.4,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1022,42.19721,-72.54249,Chicopee,MA,Massachusetts,TRUE,,2235,179.2,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1026,42.46858,-72.92296,Cummington,MA,Massachusetts,TRUE,,1071,14.7,25015,Hampshire,"{""25015"": 90.46, ""25003"": 9.54}",Hampshire|Berkshire,25015|25003,FALSE,FALSE,America/New_York
+1027,42.29506,-72.74303,Easthampton,MA,Massachusetts,TRUE,,17708,168.5,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1028,42.05967,-72.49899,East Longmeadow,MA,Massachusetts,TRUE,,16386,489.6,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1029,42.19402,-73.05067,East Otis,MA,Massachusetts,TRUE,,511,19.8,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1030,42.06869,-72.67967,Feeding Hills,MA,Massachusetts,TRUE,,12627,405.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1031,42.32782,-72.19191,Gilbertville,MA,Massachusetts,TRUE,,1577,90.4,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1032,42.45313,-72.81965,Goshen,MA,Massachusetts,TRUE,,430,17.2,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1033,42.26082,-72.50361,Granby,MA,Massachusetts,TRUE,,6110,84.8,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1034,42.0826,-72.95611,Granville,MA,Massachusetts,TRUE,,1991,11.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1035,42.35563,-72.5692,Hadley,MA,Massachusetts,TRUE,,5293,88.5,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1036,42.0638,-72.4157,Hampden,MA,Massachusetts,TRUE,,4991,98.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1037,42.37063,-72.19466,Hardwick,MA,Massachusetts,TRUE,,692,14.4,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1038,42.38466,-72.60559,Hatfield,MA,Massachusetts,TRUE,,2601,108.9,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1039,42.41049,-72.69188,Haydenville,MA,Massachusetts,TRUE,,1675,39.2,25015,Hampshire,"{""25015"": 58.67, ""25011"": 41.33}",Hampshire|Franklin,25015|25011,FALSE,FALSE,America/New_York
+1040,42.21251,-72.64109,Holyoke,MA,Massachusetts,TRUE,,38480,702,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1050,42.29092,-72.87526,Huntington,MA,Massachusetts,TRUE,,2593,24.2,25015,Hampshire,"{""25015"": 68.98, ""25013"": 31.02}",Hampshire|Hampden,25015|25013,FALSE,FALSE,America/New_York
+1053,42.35205,-72.71032,Leeds,MA,Massachusetts,TRUE,,2016,135.4,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1054,42.47381,-72.48768,Leverett,MA,Massachusetts,TRUE,,1794,30.2,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1056,42.19211,-72.45805,Ludlow,MA,Massachusetts,TRUE,,21050,298.9,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1057,42.09118,-72.32392,Monson,MA,Massachusetts,TRUE,,8288,71.8,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1060,42.32218,-72.63126,Northampton,MA,Massachusetts,TRUE,,14975,532,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1062,42.32146,-72.69244,Florence,MA,Massachusetts,TRUE,,9835,217.6,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1063,42.31962,-72.63951,Northampton,MA,Massachusetts,TRUE,,2532,11063,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1066,42.40742,-72.64032,North Hatfield,MA,Massachusetts,TRUE,,51,15.6,25015,Hampshire,"{""25015"": 99.4, ""25011"": 0.6}",Hampshire|Franklin,25015|25011,FALSE,FALSE,America/New_York
+1068,42.35125,-72.04776,Oakham,MA,Massachusetts,TRUE,,1621,28.8,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1069,42.18798,-72.30578,Palmer,MA,Massachusetts,TRUE,,8870,122.1,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1070,42.51958,-72.92504,Plainfield,MA,Massachusetts,TRUE,,621,12.1,25015,Hampshire,"{""25015"": 99.4, ""25003"": 0.6}",Hampshire|Berkshire,25015|25003,FALSE,FALSE,America/New_York
+1071,42.16029,-72.8598,Russell,MA,Massachusetts,TRUE,,1280,31.5,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1072,42.46327,-72.41893,Shutesbury,MA,Massachusetts,TRUE,,1374,27.8,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1073,42.23084,-72.73856,Southampton,MA,Massachusetts,TRUE,,6158,84.5,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1074,42.3837,-72.10021,South Barre,MA,Massachusetts,TRUE,,584,869.5,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1075,42.25672,-72.57928,South Hadley,MA,Massachusetts,TRUE,,18051,393.3,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1077,42.05441,-72.77851,Southwick,MA,Massachusetts,TRUE,,9292,116.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1079,42.18508,-72.33406,Thorndike,MA,Massachusetts,TRUE,,521,125.1,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1080,42.18228,-72.36515,Three Rivers,MA,Massachusetts,TRUE,,2276,527.7,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1081,42.06232,-72.23085,Wales,MA,Massachusetts,TRUE,,1748,46.6,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1082,42.29816,-72.27676,Ware,MA,Massachusetts,TRUE,,10441,85.8,25015,Hampshire,"{""25015"": 73.12, ""25027"": 26.75, ""25013"": 0.13}",Hampshire|Worcester|Hampden,25015|25027|25013,FALSE,FALSE,America/New_York
+1083,42.20652,-72.19906,Warren,MA,Massachusetts,TRUE,,2701,81.7,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1084,42.38589,-72.88165,West Chesterfield,MA,Massachusetts,TRUE,,101,4.7,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1085,42.15375,-72.76961,Westfield,MA,Massachusetts,TRUE,,41715,269.7,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1088,42.38981,-72.6465,West Hatfield,MA,Massachusetts,TRUE,,663,48.7,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1089,42.12532,-72.65025,West Springfield,MA,Massachusetts,TRUE,,28814,665,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1092,42.20008,-72.23715,West Warren,MA,Massachusetts,TRUE,,1248,71.7,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1093,42.44335,-72.65099,Whately,MA,Massachusetts,TRUE,,157,14.1,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1094,42.36481,-72.13548,Wheelwright,MA,Massachusetts,TRUE,,70,37.6,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1095,42.12763,-72.42994,Wilbraham,MA,Massachusetts,TRUE,,14737,253,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1096,42.40968,-72.77213,Williamsburg,MA,Massachusetts,TRUE,,2413,26,25015,Hampshire,"{""25015"": 92.01, ""25011"": 7.99}",Hampshire|Franklin,25015|25011,FALSE,FALSE,America/New_York
+1097,42.17722,-72.83175,Woronoco,MA,Massachusetts,TRUE,,64,14.2,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1098,42.39551,-72.94315,Worthington,MA,Massachusetts,TRUE,,1042,12.6,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1103,42.10443,-72.58997,Springfield,MA,Massachusetts,TRUE,,2168,1925.2,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1104,42.13326,-72.56733,Springfield,MA,Massachusetts,TRUE,,23226,1714,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1105,42.09911,-72.57865,Springfield,MA,Massachusetts,TRUE,,12527,4010.9,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1106,42.04877,-72.57163,Longmeadow,MA,Massachusetts,TRUE,,16150,650.5,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1107,42.12116,-72.60642,Springfield,MA,Massachusetts,TRUE,,12387,3100.9,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1108,42.0814,-72.55866,Springfield,MA,Massachusetts,TRUE,,26257,2946.1,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1109,42.11839,-72.54876,Springfield,MA,Massachusetts,TRUE,,31242,2216.9,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1118,42.09476,-72.5253,Springfield,MA,Massachusetts,TRUE,,15073,1618.5,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1119,42.12452,-72.51126,Springfield,MA,Massachusetts,TRUE,,13803,1509.5,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1128,42.09497,-72.48806,Springfield,MA,Massachusetts,TRUE,,3232,1125.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1129,42.1211,-72.4877,Springfield,MA,Massachusetts,TRUE,,5916,664.8,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1144,42.10189,-72.59091,Springfield,MA,Massachusetts,TRUE,,0,0,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1151,42.15294,-72.50883,Indian Orchard,MA,Massachusetts,TRUE,,9640,1571.3,25013,Hampden,"{""25013"": 100}",Hampden,25013,FALSE,FALSE,America/New_York
+1201,42.45614,-73.28114,Pittsfield,MA,Massachusetts,TRUE,,45372,290.2,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1220,42.62686,-73.11873,Adams,MA,Massachusetts,TRUE,,8161,137.7,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1222,42.06242,-73.32146,Ashley Falls,MA,Massachusetts,TRUE,,754,63.4,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1223,42.31118,-73.09835,Becket,MA,Massachusetts,TRUE,,2658,14.8,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1224,42.50622,-73.19841,Berkshire,MA,Massachusetts,TRUE,,186,154.3,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1225,42.56385,-73.1512,Cheshire,MA,Massachusetts,TRUE,,3243,46.7,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1226,42.47954,-73.15329,Dalton,MA,Massachusetts,TRUE,,6356,112.8,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1229,42.29411,-73.35227,Glendale,MA,Massachusetts,TRUE,,142,22.1,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1230,42.18197,-73.34244,Great Barrington,MA,Massachusetts,TRUE,,9139,36.4,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1235,42.43181,-73.07336,Hinsdale,MA,Massachusetts,TRUE,,2610,21.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1236,42.26923,-73.37999,Housatonic,MA,Massachusetts,TRUE,,1632,95.2,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1237,42.5529,-73.25373,Lanesborough,MA,Massachusetts,TRUE,,2332,18.3,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1238,42.30072,-73.22553,Lee,MA,Massachusetts,TRUE,,5626,78.7,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1240,42.37567,-73.26466,Lenox,MA,Massachusetts,TRUE,,4926,79.5,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1242,42.3334,-73.24967,Lenox Dale,MA,Massachusetts,TRUE,,279,234.5,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1243,42.34752,-73.03467,Middlefield,MA,Massachusetts,TRUE,,163,4.4,25015,Hampshire,"{""25015"": 100}",Hampshire,25015,FALSE,FALSE,America/New_York
+1244,42.10924,-73.27475,Mill River,MA,Massachusetts,TRUE,,164,11,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1245,42.19043,-73.21579,Monterey,MA,Massachusetts,TRUE,,771,11.5,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1247,42.69813,-73.09264,North Adams,MA,Massachusetts,TRUE,,15405,129.5,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1253,42.20751,-73.1118,Otis,MA,Massachusetts,TRUE,,879,16,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1254,42.37972,-73.36608,Richmond,MA,Massachusetts,TRUE,,995,26.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1255,42.1068,-73.12213,Sandisfield,MA,Massachusetts,TRUE,,865,6.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1256,42.59627,-73.01958,Savoy,MA,Massachusetts,TRUE,,708,7.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1257,42.0976,-73.37241,Sheffield,MA,Massachusetts,TRUE,,2034,23.2,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1258,42.09396,-73.46616,South Egremont,MA,Massachusetts,TRUE,,161,2.8,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1259,42.07316,-73.23282,Southfield,MA,Massachusetts,TRUE,,720,12.1,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1260,42.26663,-73.2712,South Lee,MA,Massachusetts,TRUE,,331,49.4,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1262,42.30433,-73.32013,Stockbridge,MA,Massachusetts,TRUE,,1627,31.8,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1264,42.23997,-73.19686,Tyringham,MA,Massachusetts,TRUE,,252,6.7,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1266,42.30264,-73.39846,West Stockbridge,MA,Massachusetts,TRUE,,920,17.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1267,42.66593,-73.24209,Williamstown,MA,Massachusetts,TRUE,,8166,53.2,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1270,42.51297,-73.04859,Windsor,MA,Massachusetts,TRUE,,949,11.4,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1301,42.62375,-72.60379,Greenfield,MA,Massachusetts,TRUE,,17901,272.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1330,42.51772,-72.81556,Ashfield,MA,Massachusetts,TRUE,,1542,17.3,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1331,42.56793,-72.18324,Athol,MA,Massachusetts,TRUE,,13870,98.9,25027,Worcester,"{""25027"": 99.72, ""25011"": 0.28}",Worcester|Franklin,25027|25011,FALSE,FALSE,America/New_York
+1337,42.69512,-72.57731,Bernardston,MA,Massachusetts,TRUE,,2492,25.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1338,42.5814,-72.80309,Buckland,MA,Massachusetts,TRUE,,97,28.6,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1339,42.61099,-72.88846,Charlemont,MA,Massachusetts,TRUE,,1493,9.9,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1340,42.68805,-72.73205,Colrain,MA,Massachusetts,TRUE,,1818,13.5,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1341,42.50734,-72.70221,Conway,MA,Massachusetts,TRUE,,1658,19.1,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1342,42.54384,-72.6058,Deerfield,MA,Massachusetts,TRUE,,1135,23.8,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1343,42.66766,-72.98822,Drury,MA,Massachusetts,TRUE,,152,5.1,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,FALSE,FALSE,America/New_York
+1344,42.60756,-72.42916,Erving,MA,Massachusetts,TRUE,,1697,47.5,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1346,42.6706,-72.81323,Heath,MA,Massachusetts,TRUE,,407,11.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1347,42.56027,-72.51321,Lake Pleasant,MA,Massachusetts,TRUE,,207,223.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1349,42.56656,-72.47045,Millers Falls,MA,Massachusetts,TRUE,,715,28,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1350,42.72259,-72.98291,Monroe Bridge,MA,Massachusetts,TRUE,,114,4.1,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1351,42.54162,-72.52069,Montague,MA,Massachusetts,TRUE,,2725,53.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1354,42.63282,-72.51136,Gill,MA,Massachusetts,TRUE,,1708,48,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1355,42.45101,-72.33141,New Salem,MA,Massachusetts,TRUE,,1010,8.2,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1360,42.67575,-72.446,Northfield,MA,Massachusetts,TRUE,,2899,32.6,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1364,42.60449,-72.29263,Orange,MA,Massachusetts,TRUE,,7684,82.4,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1366,42.48858,-72.18564,Petersham,MA,Massachusetts,TRUE,,1141,11.9,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1367,42.69674,-72.91387,Rowe,MA,Massachusetts,TRUE,,473,7.4,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1368,42.67815,-72.18557,Royalston,MA,Massachusetts,TRUE,,1461,12.7,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1370,42.59607,-72.72915,Shelburne Falls,MA,Massachusetts,TRUE,,3690,29.6,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1373,42.47292,-72.61516,South Deerfield,MA,Massachusetts,TRUE,,5076,85,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1375,42.46475,-72.55489,Sunderland,MA,Massachusetts,TRUE,,3667,100.6,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1376,42.59273,-72.54591,Turners Falls,MA,Massachusetts,TRUE,,4968,470.3,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1378,42.67711,-72.34057,Warwick,MA,Massachusetts,TRUE,,762,7.9,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1379,42.54149,-72.3989,Wendell,MA,Massachusetts,TRUE,,819,14.7,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1380,42.58675,-72.40264,Wendell Depot,MA,Massachusetts,TRUE,,47,2.8,25011,Franklin,"{""25011"": 100}",Franklin,25011,FALSE,FALSE,America/New_York
+1420,42.58559,-71.81693,Fitchburg,MA,Massachusetts,TRUE,,41766,536.5,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1430,42.66069,-71.9232,Ashburnham,MA,Massachusetts,TRUE,,6316,66.4,25027,Worcester,"{""25027"": 100}",Worcester,25027,FALSE,FALSE,America/New_York
+1431,42.67652,-71.82322,Ashby,MA,Massachusetts,TRUE,,3189,52,25017,Middlesex,"{""25017"": 100}",Middlesex,25017,FALSE,FALSE,America/New_York
+1432,42.56351,-71.57059,Ayer,MA,Massachusetts,TRUE,,7912,358.6,25017,Middlesex,"{""25017"": 100}",Middlesex,25017,FALSE,FALSE,America/New_York
