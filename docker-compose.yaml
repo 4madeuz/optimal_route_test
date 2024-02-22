@@ -1,0 +1,34 @@
+version: '3'
+services:
+  pg_database:
+    image: postgres:13-alpine
+    container_name: pg_database
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    ports:
+      - 5432:${POSTGRES_PORT}
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - PROJECT_NAME=${PROJECT_NAME}
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_SCHEME=${POSTGRES_SCHEME}
+    restart: always
+    ports:
+      - 8000:8000
+    depends_on:
+      - pg_database
+
+volumes:
+  postgres_data:
