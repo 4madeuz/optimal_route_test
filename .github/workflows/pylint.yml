@@ -17,7 +17,7 @@ jobs:
       - name: Run MyPy with HTML report
         uses: jpetrucciani/mypy-check@master
         with:
-          requirements: lxml==5.1.0
+          requirements: requirements.txt  
           mypy_flags: '--config-file .mypy.ini --html-report coverage_report'
       - name: Upload HTML report
         uses: actions/upload-artifact@v4
