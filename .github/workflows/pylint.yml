@@ -1,0 +1,26 @@
+name: OptimalWorkflow
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  linters:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: chartboost/ruff-action@v1
+        with:
+          args: --line-length 79
+      - name: Run MyPy with HTML report
+        uses: jpetrucciani/mypy-check@master
+        with:
+          requirements: lxml==5.1.0
+          mypy_flags: '--config-file .mypy.ini --html-report coverage_report'
+      - name: Upload HTML report
+        uses: actions/upload-artifact@v4
+        with:
+          name: mypy-coverage-report
+          path: coverage_report
