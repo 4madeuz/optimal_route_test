@@ -1,10 +1,5 @@
-import pandas as pd
-from fastapi import (APIRouter, Depends, File, Header, HTTPException, Request,
-                     UploadFile, status)
-from fastapi.encoders import jsonable_encoder
-from sqlalchemy.ext.asyncio import AsyncSession
+from fastapi import (APIRouter, Depends, File, HTTPException, UploadFile, status)
 
-from src.db.postgres import get_session
 from src.schemas.routes import RouteInDB
 from src.services.routes import RouteSolver, get_route_service
 

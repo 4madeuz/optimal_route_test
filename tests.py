@@ -1,8 +1,7 @@
 import pytest
 from httpx import AsyncClient
-from sqlalchemy.ext.asyncio import AsyncSession
 
-from src.models.routes import Point, Route
+from src.models.routes import Route
 
 pytestmark = pytest.mark.asyncio
 

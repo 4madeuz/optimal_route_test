@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 from fastapi import Depends
 from sqlalchemy import and_, select
-from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import joinedload
 
